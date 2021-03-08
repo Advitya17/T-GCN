@@ -18,7 +18,7 @@ from sklearn.metrics import mean_squared_error,mean_absolute_error
 
 import random
 import threading
-import psutil, gputil
+import psutil, GPUtil
 from time import time
 import datetime
 
